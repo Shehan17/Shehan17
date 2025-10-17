@@ -1,11 +1,3 @@
-![unnamed](https://user-images.githubusercontent.com/92236288/205500474-7ab0ede3-9d6a-4d88-b316-a99a3f8bcdaa.jpg)
-
-
--👋 Hi, I’m @Shehan17(Shehan Rashmika)
-- 👀 I’m interested in gameDev
-- 🌱 I’m currently learning Unity
-- My Page - https://shehan17.itch.io/
-
 # 👋 Hey there, I'm Shehan!
 
 🎮 **Freelance Game Developer** | 💻 **BICT Undergraduate**
@@ -28,8 +20,8 @@ Currently studying **Bachelor in Information and Communication Technology (BICT)
 
 ### 📫 Connect with Me
 - 💌 Email: *shehanrashmika1217@gmail.com*  
-- 🌐 Portfolio: *(optional link if you have one)*  
-- 🕹️ GitHub: [@ShehanDev](https://github.com/ShehanDev) *(replace with your username)*  
+- 🌐 Portfolio: *https://shehan17.itch.io/*  
+- 🕹️ GitHub: [@ShehanDev](https://github.com/Shehan17)
 
 <!---
 ---
@@ -37,6 +29,8 @@ Currently studying **Bachelor in Information and Communication Technology (BICT)
 > “Build systems, not scripts.” — My approach to game development
 
 ⭐ If you like my work, consider following or starring my repositories!
+
+![unnamed](https://user-images.githubusercontent.com/92236288/205500474-7ab0ede3-9d6a-4d88-b316-a99a3f8bcdaa.jpg)
 
 
 
