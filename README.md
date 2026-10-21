@@ -1,24 +1,47 @@
-# Hi, I'm Shehan 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7F5AF0&height=190&section=header&text=Shehan%20Rashmika&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Unity%20Game%20Developer%20%E2%80%A2%20Sri%20Lanka&descSize=16&descAlignY=56&animation=fadeIn" width="100%" />
 
-🎮 Freelance **Unity Game Developer** from Sri Lanka · 💻 BICT Undergraduate
+<div align="center">
 
-I build clean, expandable gameplay systems: **2D games, RTS mechanics, AI behavior, resource systems and game UI**.
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=%3E+Build+systems%2C+not+just+scripts.;%3E+RTS+%E2%80%A2+AI+%E2%80%A2+2D+Games+%E2%80%A2+Game+UI;%3E+Freelancer+by+day%2C+BICT+student+by+night" />
 
-### 🧩 Currently building
-An RTS-style kingdom game in Unity, with worker AI, troops, resource gathering, building placement and enemy raids.
+</div>
 
-### ⚙️ Tech
-![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+### 🎮 Player Profile
 
-### 📫 Find me
-[🎮 Itch.io](https://shehan17.itch.io/) · [💼 Fiverr](https://www.fiverr.com/shehanrashmi/do-unity-2d-game-development) · [📧 Email](mailto:shehanrashmika1217@gmail.com)
+```yaml
+player:  Shehan Rashmika
+class:   Unity Game Developer
+guild:   Freelancer @ Fiverr
+quest:   BICT Undergraduate
+perks:   [ RTS mechanics, AI & state machines, resource systems, game UI, pixel art ]
+motto:   "Build systems, not just scripts."
+```
 
-> *"Build systems, not just scripts."*
+### 📜 Active Quest: *Kingdom RTS*
+
+> 🏰 A settlement-building strategy game in Unity
+
+| ⚔️ System | 🔧 Status |
+|---|---|
+| 👷 Worker AI & resource gathering | 🟡 In progress |
+| 🏗️ Building placement | 🟡 In progress |
+| 🛡️ Troops & combat | 🟡 In progress |
+| 🌍 World map, enemy kingdoms & raids | 🟡 In progress |
+
+### 🧰 Inventory
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,c,postgres,html,css,blender,visualstudio,github&theme=dark" />
+  <br />
+  <sub>🎨 plus <b>Aseprite</b> & <b>Inkscape</b> for pixel and vector art</sub>
+</p>
+
+### 🕹️ Join the Party
+
+<p align="center">
+  <a href="https://shehan17.itch.io/"><img src="https://img.shields.io/badge/Play%20my%20games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
+  <a href="https://www.fiverr.com/shehanrashmi/do-unity-2d-game-development"><img src="https://img.shields.io/badge/Hire%20me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+  <a href="mailto:shehanrashmika1217@gmail.com"><img src="https://img.shields.io/badge/Email%20me-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:302b63,100:0f0c29&height=110&section=footer" width="100%" />
