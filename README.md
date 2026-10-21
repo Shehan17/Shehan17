@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=%3E+Build+systems%2C+not+just+scripts.;%3E+2D+Games+%E2%80%A2+AI+%E2%80%A2+Gameplay+Systems;%3E+Turning+game+ideas+into+playable+worlds" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=%3E+Build+systems%2C+not+just+scripts.;%3E+2D+Games+%E2%80%A2+AI+%E2%80%A2+Gameplay+Systems;%3E+Turning+game+ideas+into+playable+worlds;%3E+BICT+student+by+day%2C+Freelancer+by+night" />
 
 </div>
 
