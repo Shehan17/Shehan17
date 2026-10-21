@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=%3E+Build+systems%2C+not+just+scripts.;%3E+RTS+%E2%80%A2+AI+%E2%80%A2+2D+Games+%E2%80%A2+Game+UI;%3E+Freelancer+by+day%2C+BICT+student+by+night" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=%3E+Build+systems%2C+not+just+scripts.;%3E+2D+Games+%E2%80%A2+AI+%E2%80%A2+Gameplay+Systems;%3E+Turning+game+ideas+into+playable+worlds" />
 
 </div>
 
@@ -13,20 +13,9 @@ player:  Shehan Rashmika
 class:   Unity Game Developer
 guild:   Freelancer @ Fiverr
 quest:   BICT Undergraduate
-perks:   [ RTS mechanics, AI & state machines, resource systems, game UI, pixel art ]
+perks:   [ gameplay systems, AI & state machines, resource systems, game UI, pixel art ]
 motto:   "Build systems, not just scripts."
 ```
-
-### 📜 Active Quest: *Kingdom RTS*
-
-> 🏰 A settlement-building strategy game in Unity
-
-| ⚔️ System | 🔧 Status |
-|---|---|
-| 👷 Worker AI & resource gathering | 🟡 In progress |
-| 🏗️ Building placement | 🟡 In progress |
-| 🛡️ Troops & combat | 🟡 In progress |
-| 🌍 World map, enemy kingdoms & raids | 🟡 In progress |
 
 ### 🧰 Inventory
 
